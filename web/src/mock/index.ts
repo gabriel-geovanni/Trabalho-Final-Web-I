@@ -1,0 +1,82 @@
+export const mockReserva = [
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f9',
+    description: 'Teste 1',
+    bookingdate: '2022-03-25',
+    bookingstart: '16:00:00',
+    bookingend: '17:00:00',
+    userid: 'gabriel@gmail.com',
+    roomid: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+    room: {
+      id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+      name: 'Auditorio',
+      num: '1',
+      building: 'Bloco A',
+    },
+  },
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a9814',
+    description: 'Teste 1',
+    bookingdate: '2022-03-25',
+    bookingstart: '17:00:00',
+    bookingend: '19:00:00',
+    userid: 'gabriel@gmail.com',
+    roomid: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+    room: {
+      id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+      name: 'Auditorio',
+      num: '1',
+      building: 'Bloco A',
+    },
+  },
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a9811',
+    description: 'Teste 1',
+    bookingdate: '2022-03-25',
+    bookingstart: '12:00:00',
+    bookingend: '14:00:00',
+    userid: 'gabriel@gmail.com',
+    roomid: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+    room: {
+      id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+      name: 'Auditorio',
+      num: '1',
+      building: 'Bloco A',
+    },
+  },
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a9810',
+    description: 'Teste 1',
+    bookingdate: '2022-03-25',
+    bookingstart: '09:00:00',
+    bookingend: '10:00:00',
+    userid: 'gabriel@gmail.com',
+    roomid: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+    room: {
+      id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+      name: 'Auditorio',
+      num: '1',
+      building: 'Bloco A',
+    },
+  },
+];
+export const mockRooms = [
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f8',
+    name: 'Auditorio',
+    num: '1',
+    building: 'Bloco A',
+  },
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a98f9',
+    name: 'Auditorio',
+    num: '5',
+    building: 'Bloco C',
+  },
+  {
+    id: 'b30ae9e9-56ef-47de-bf58-64530d7a9810',
+    name: 'Auditorio',
+    num: '2',
+    building: 'Bloco B',
+  },
+];

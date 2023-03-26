@@ -1,0 +1,25 @@
+{
+  "name": "trabalho-final",
+  "version": "1.0.0",
+  "description": "Trabalho final de curso, sistema de reserva de salas de reuniões do ICEA",
+  "main": "src/index.js",
+  "author": "Gabriel Geovanni",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "pg": "^8.10.0",
+    "postgres": "^3.3.4"
+  }
+}
