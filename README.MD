@@ -1,4 +1,4 @@
-# **CSI606-2021-02 - Remoto - Trabalho Final - Resultados**
+# **CSI606-2021-02 - Presencial - Trabalho Final - Resultados**
 
 ## _Aluno: Gabriel Geovanni Moreira Silva_
 
